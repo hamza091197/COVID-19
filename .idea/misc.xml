@@ -5,11 +5,13 @@
       <map>
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/drawable/icon_bg.xml" value="0.1555" />
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_know_more.xml" value="0.18645833333333334" />
-        <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_precaution.xml" value="0.1" />
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/activity_symptoms.xml" value="0.1" />
         <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/layout/item_symptoms.xml" value="0.1" />
+        <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1555" />
+        <entry key="..\:/Users/hk952/AndroidStudioProjects/CovidTracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
